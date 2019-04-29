@@ -4,9 +4,9 @@
 What are Channels and Kernels (according to EVA)?
 --
 
-Kernels interchangebly known as Filter/Mask is a square matrix or image. that is slided on the original image to extract features, kernel usually have matrix size 1X1, 2X2, 3X3 which is run across the orignal image top to bottom and left to right to extract features.
+Kernels interchangebly known as Filter/Mask is a square matrix or image, that is slided on the original image to extract features, kernel usually have matrix size 1X1, 2X2, 3X3 which is run across the orignal image top to bottom and left to right to extract features.
 
-Channels represnts Red,Green,Blue color in image, it can be compared to our eyes which have red blue green rods, which acts as recepotors when we see phyiscal objects, same way images constitute RGB colors called channels`
+Channels represents Red,Green,Blue color in image, it can be compared to our eyes which have red blue green rods, which acts as recepotors when we see phyiscal objects, same way images constitute RGB colors called channels`
 
 Why should we only (well mostly) use 3x3 Kernels?
 --
